@@ -26,11 +26,11 @@ div {
 
 .name {
     position: absolute;
+    top: 0px;
     right: 0px;
     width: 70px;
     padding: 5px;
-    margin-top: -41px;
-    margin-right: -1px;
+    margin-top: 0;
     border: 1px solid gray;
     font-size: 1.25em;
     text-align: center;
